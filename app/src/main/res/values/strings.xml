@@ -2,4 +2,18 @@
     <string name="app_name">About Me</string>
     <string name="name">Jessica B</string>
     <string name="yellow_star">Yellow Star</string>
+
+
+    <string name="bio"> Hi, My name is Jessica.
+        \n\n I love cat.
+        \n\n The kind that is always sleep and when is wake up eat, jump, bit and definitely ignore you.
+        \n\n Fun fact is that I have 3 cats and all of them ignore me.
+        \n\n I don\'t like eat cat, raw cat? no,  grilled cat? no, smoked cat? no, poached cat? no, please.
+        \n\n And sometimes I even feed stray cats.
+        \n\n And even less sometimes I actually pet some cat.
+        \n\n Once I was camping in Canada, and very hungry, I even caught a large cat with my hands. But no ate it.
+        \n\n I\'ll be happy to teach you how yo have your own cats.
+        \n You should ask someone else about how to feed them or how to clean their litter box, though. \n\n </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">done</string>
 </resources>
